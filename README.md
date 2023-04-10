@@ -96,11 +96,10 @@ There is no significant evidence to suggest there being a connection between car
 There are still several areas of opportunity in the data privacy, IoT security and autonomously driven cars segments, which will be important topics in the future and getting involved in the conversation this early on is a great opportunity for being part of this new technology that is just gonna get bigger.
 
 ## Repository Exploration
-
-
+The repository has a data folder which contains all datasets and imagery that was used for the project as well as the designated models used and created for image processing. The repository also contains a folder with the jupyter notebook checkpoints and the Final_Project.ipynb file containing the project itself. Additionally, the repository also contains a lin_reg.py file which is used when making a regression. Finally, the repository also contains the Capstone_Project_Proposal.pdf which is the original project proposal, the Final Presentation AutonomousCarsNonTechnicalR.pptx and a pre_presentation folder containing the previous presentation and this README.md file.
 
 ## Presentation
-
+https://github.com/raulc23d/CapstoneProjectR/blob/main/AutonomousCarsNonTechnicalR.pptx
 
 ## Sources and references
 #### Bibliography that helped in the construction of this project
