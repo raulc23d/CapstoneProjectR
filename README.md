@@ -34,6 +34,18 @@ This project will evaluate their safety and application for quality of life impr
 
 To clean the datasets we seek to obtain the best information for our project needs, therefore we want to keep records of ADS (Autonomously Driven Systems) and ADAS (Advanced Driver Assistance System), the dataset for other reflects different systems to the ADAS, however, these are non-autonomous and will therefore be grouped with the ADAS systems for better understanding of the data. Unnecessary columns and information will be removed.
 
+<div align="center">
+<img src= "https://user-images.githubusercontent.com/115320501/230948137-fc93b7dc-dbbe-4024-93a0-3763aef3736f.png">
+</div>
+
+<div align="center">
+<img src= "https://user-images.githubusercontent.com/115320501/230948286-0cc4cc7b-f369-40a8-9339-08a16029c06c.png">
+</div>
+
+<div align="center">
+<img src= "https://user-images.githubusercontent.com/115320501/230948395-54637242-d64b-408b-b0be-bb191f83daf4.png">
+</div>
+
 ## Data Modelling
 
 Data related to car accidents and the systems involved in driving them will be modelled to show how ADS fares in comparison to ADAS / Other.
